@@ -765,7 +765,7 @@ export default function Home() {
               © 2026 Anime Al Sudan. جميع الحقوق محفوظة.
             </p>
             <p className="text-sm text-muted-foreground mt-4 md:mt-0">
-              دكتور ستون عمكك
+              🔴〽️🧛🏼‍♂️دكتور استون تاج راسككم 🧛🏼‍♂️〽️🔴
             </p>
           </div>
         </div>
