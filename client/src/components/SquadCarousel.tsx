@@ -12,9 +12,9 @@ import {
 // مثال: imageUrl: "/squads/squad1.png"
 const dummySquads = Array.from({ length: 9 }).map((_, i) => ({
     id: i + 1,
-    name: "فيلق الأنمي " + (i + 1),
+    name: "فيلق الأتحـاد " + (i + 1),
     description: "وصف مميز للفيلق سيتم إضافته لاحقاً",
-    imageUrl: "", // اترك هذا فارغاً ليظهر نص "قريباً"، أو ضع مسار الصورة هنا
+    imageUrl: "/الصور/anime_sudan/Picsart_26-03-01_19-46-16-793.png", // اترك هذا فارغاً ليظهر نص "قريباً"، أو ضع مسار الصورة هنا
 }));
 
 export default function SquadCarousel() {
